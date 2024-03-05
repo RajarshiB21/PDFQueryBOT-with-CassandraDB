@@ -21,4 +21,9 @@ Clone the repository and install the required dependencies:
 git clone <repository-url>
 cd <repository-directory>
 pip install -r requirements.txt
+pip install ipynb kernel
+```
+
+### Running the kernel
+Remember to replace the database tokens and openai tokens with your personal tokens for usage. 
 
